@@ -4,7 +4,9 @@ Từ phiên bản Windows 1.0-11 có bản được đóng gói bằng file .iso
 . Còn giảm các bước giúp cài win nhanh hơi bình thường đỡ tốn thời gian. Và các phiên bảm đặc biệt như Longhron
 2002, NT4.0& 5.0... Các phiên bản có loại thêm app để cài win xong không phải cài. Có loại bới đi phần mềm cho
 Nhẹ. Các bản Android hay Linux cũng vậy
-2. Công cụ 
+
+
+#công cụ
 · Công cụ cài win, office hay là tạo usb. Rất nhiều tool giống trong win pe và các tool đó sẽ là bản đặc biệt như
 Đã được editor rút gọn... Một số công cụ được nêu tên như:
 Rufus
@@ -25,7 +27,7 @@ Nhiều hơn nữa nếu bạn cần thêm hãy nhắn phần mềm bạn muốn
 Có nhiều file activation nên một số phần mềm cần tắt trình virus
 
 
-3. Virus
+#virus
 Ai cũng biết không nên dùng virus nhưng ai thích khám qhas thì có thể dùng mấy con sẽ 
 Được up lên như: wana cry...
 Hãy kết nối với sever discord hay Facebook để biết nhiều tin hơn!!!
