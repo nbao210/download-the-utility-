@@ -23,6 +23,8 @@ Mp4
 Rar
 Nhiều hơn nữa nếu bạn cần thêm hãy nhắn phần mềm bạn muốn thêm trong nbao21022012@gmail.com
 Có nhiều file activation nên một số phần mềm cần tắt trình virus
+
+
 3. Virus
 Ai cũng biết không nên dùng virus nhưng ai thích khám qhas thì có thể dùng mấy con sẽ 
 Được up lên như: wana cry...
