@@ -7,6 +7,7 @@ Nhẹ. Các bản Android hay Linux cũng vậy
 
 
 #công cụ
+
 · Công cụ cài win, office hay là tạo usb. Rất nhiều tool giống trong win pe và các tool đó sẽ là bản đặc biệt như
 Đã được editor rút gọn... Một số công cụ được nêu tên như:
 Rufus
@@ -28,6 +29,7 @@ Có nhiều file activation nên một số phần mềm cần tắt trình viru
 
 
 #virus
+
 Ai cũng biết không nên dùng virus nhưng ai thích khám qhas thì có thể dùng mấy con sẽ 
 Được up lên như: wana cry...
 Hãy kết nối với sever discord hay Facebook để biết nhiều tin hơn!!!
